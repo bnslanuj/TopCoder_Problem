@@ -1,4 +1,1 @@
-hello_world
-===========
-
-Sample Repository
+TopCoder Solutions
